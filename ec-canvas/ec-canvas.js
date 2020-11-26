@@ -42,7 +42,11 @@ Component({
     forceUseOldCanvas: {
       type: Boolean,
       value: false
-    }
+    },
+
+    width:String,
+
+    height:String
   },
 
   data: {
