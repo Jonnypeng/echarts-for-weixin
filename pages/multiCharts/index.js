@@ -11,15 +11,10 @@ Page({
   },
   data: {
     ecBar: {
-      onInit: function (canvas, width, height, dpr) {
-        const barChart = echarts.init(canvas, null, {
-          width: width,
-          height: height,
-          devicePixelRatio: dpr // new
-        });
+      onInit: function (canvas) {
+        const barChart = echarts.init(canvas);
         canvas.setChart(barChart);
         barChart.setOption(getBarOption());
-
         return barChart;
       }
     },

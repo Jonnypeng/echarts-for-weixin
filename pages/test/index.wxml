@@ -1,0 +1,4 @@
+<!--pages/test/index.wxml-->
+<view>
+    <canvas type="2d" class="ec-canvas" style="width:600px;height:600px"></canvas>
+</view>

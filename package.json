@@ -1,0 +1,19 @@
+{
+  "name": "echarts-for-weixin",
+  "version": "1.0.0",
+  "description": "本项目是 [Apache ECharts (incubating)](https://github.com/apache/incubator-echarts) 的微信小程序版本，以及使用的示例。",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jonnypeng/echarts-for-weixin.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jonnypeng/echarts-for-weixin/issues"
+  },
+  "homepage": "https://github.com/Jonnypeng/echarts-for-weixin#readme"
+}
