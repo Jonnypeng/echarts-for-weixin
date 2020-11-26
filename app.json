@@ -1,7 +1,7 @@
 {
     "pages": [
-        "pages/test/index",
         "pages/multiCharts/index",
+        "pages/test/index",
         "pages/index/index",
         "pages/bar/index",
         "pages/measureText/index",
